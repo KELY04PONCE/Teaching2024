@@ -9,3 +9,4 @@
 | 2      | 229600   | 71958538 | TURPO BENIQUE Cliver OLiver |  https://github.com/oliverturpo/lenguajes |
 | 3      | 227423   | 77128497 | Quispe Apaza Elvis Dante |  https://github.com/Lucc4z/Programming-Language-II/tree/main/Python |
 | 5      | 229731   | 74966303 | Pacho Velasquez Emerson Angel |  https://github.com/Emerson-Angel/lenguajes_de_programacion_ii |
+| 6      | 213726   | 72478609 | Ponce Quispe Kely Zulema | https://github.com/KELY04PONCE/LENGUAJE-DE-PROGRAMACION-.git |
